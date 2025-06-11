@@ -3,7 +3,7 @@
 // 인스턴스란 : 위 설계도를 바탕으로 만든 실체
 // 객체란 : 위 내용들을 뭉떵그려 표현하는 하나의 표현
 using namespace std;
-enum Character
+enum UNITS
 {
 	ZERGLING,
 	MARINE,
@@ -18,7 +18,7 @@ private:
 	int attack = 0;
 
 public:
-	Unit(Character ch)
+	Unit(UNITS ch)
 	{
 		cout << "Created Unit" << endl;
 		switch (ch)
@@ -50,6 +50,14 @@ public:
 	{
 		cout << "Health : " << health << endl;
 		cout << "Defense : " << defense << endl;
+	}
+	int& GetHP()
+	{
+		return health;
+	}
+	void SetHp(int hp)
+	{
+		health = hp;
 	}
 };
 class Item
@@ -93,6 +101,22 @@ void Position(int x, int y, int z = 30)
 	cout << "y의 값 : " << y << endl;
 	cout << "z의 값 : " << z << endl;
 }
+class Character
+{
+	int x;
+	int y;
+	int hp;
+	const int level; // 수정이 불가하게 끔 해야하는 level 변수
+public:
+	Character(float _x, float _y, int lv, int _hp) : x(_x), y(_y), level(lv), hp(_hp) {};
+};
+class HUD
+{
+	int& trackingHp; // character 체력 바 또는 체력 상태 표시를 위한 참조형 변수
+public:
+	HUD(int& hp) : trackingHp(hp) {}
+	void PrintHP() { cout << "현재 체력 : " << trackingHp << endl; }
+};
 int main()
 {
 #pragma region 생성자
@@ -180,7 +204,67 @@ int main()
 #pragma endregion
 
 #pragma region 멤버 이니셜라이저
-	//숙제
+	// 멤버 : 클래스 내부에 존재하는 변수나 함수
+	// 이니셜라이저 : 초기화 
+	// 즉 클래스의 생성자를 만들 때 멤버 변수들을 초기화하는 데에 
+	// 사용하는 특별한 문법임.
+	
+	// ex)
+	//	class Player
+	//	{
+	//		int hp;
+	//	public:
+	//		Player(int _hp) : hp(_hp) {} // <---이게 멤버 이니셜라이져
+	//	};
+//
+	//	// 기존의 생성자
+	//	
+	//	class Player
+	//	{
+	//		int hp;
+	//	public:
+	//		Player(int _hp)
+	//		{
+	//			hp = _hp;
+	//		} 
+	//	};
+
+	// 위와 같이 기존의 생성자로 작업을 하면 생성 후 대입하게 되어서
+	// 성능적으로 한번 거치지 때문에 느리기도하고
+	// 복잡한 클래스의 경우 생성자가 중복 호출 되는 경우도 방지 할 수 있다.
+
+	// 그리고 중요한 내용인데 const 멤버라던가 
+	// 참조 멤버들도 멤버 이니셜라이저를 사용하면 초기화가 가능하다
+
+	// ex)
+	//	class Player
+	//	{
+	//		const int id;	// const 멤버
+	//	public:
+	//		Player(int _id)
+	//		{
+	//			id = _id; // 빨간 줄 그임. 즉, 수정불가
+	//		}
+	//	};
+
+	//	class Player
+	//	{
+	//		string name;
+	//	public:
+	//		Player(const string& n)
+	//		{
+	//			name = n; // 역시 빨간 줄 그임.. 즉, 수정불가
+	//		}
+	//	};
+
+	
+Character marine(10.0f, 10.0f, 1, 40); // 마린 멤버이니셜라이징
+Unit zegling(ZERGLING); // 저글링 일반 생성
+HUD hud(zegling.GetHP()); // 저글링 HP 값 넣어줌.
+	
+zegling.SetHp(30); // 재설정.
+hud.PrintHP(); // HP 상황 중계
+
 #pragma endregion
 
 
