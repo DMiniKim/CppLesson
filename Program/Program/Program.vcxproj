@@ -127,7 +127,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Consumable.cpp" />
+    <ClCompile Include="Potion.cpp" />
     <ClCompile Include="Program.cpp" />
+    <ClCompile Include="Tool.cpp" />
+    <ClCompile Include="WhetStone.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Consumable.h" />
+    <ClInclude Include="Potion.h" />
+    <ClInclude Include="Tool.h" />
+    <ClInclude Include="WhetStone.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
