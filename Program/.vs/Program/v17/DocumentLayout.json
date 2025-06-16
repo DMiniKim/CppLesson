@@ -7,32 +7,36 @@
       "RelativeMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|solutionrelative:Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Consumable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|solutionrelative:Program\\Consumable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Vector2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|solutionrelative:Program\\Vector2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|solutionrelative:Program\\Potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Vector2D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|solutionrelative:Program\\Vector2D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Tool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|solutionrelative:Program\\Tool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Brush.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|solutionrelative:Program\\Brush.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\WhetStone.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|solutionrelative:Program\\WhetStone.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Pencil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|solutionrelative:Program\\Pencil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Consumable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|solutionrelative:Program\\Consumable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Paint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|solutionrelative:Program\\Paint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\WhetStone.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|solutionrelative:Program\\WhetStone.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Pencil.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|solutionrelative:Program\\Pencil.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Tool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|solutionrelative:Program\\Tool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Brush.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|solutionrelative:Program\\Brush.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Paint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|solutionrelative:Program\\Paint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,98 +46,103 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "WhetStone.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\WhetStone.cpp",
-              "RelativeDocumentMoniker": "Program\\WhetStone.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\WhetStone.cpp",
-              "RelativeToolTip": "Program\\WhetStone.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Vector2D.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Vector2D.cpp",
+              "RelativeDocumentMoniker": "Program\\Vector2D.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Vector2D.cpp",
+              "RelativeToolTip": "Program\\Vector2D.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-13T05:21:06.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Tool.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Tool.cpp",
-              "RelativeDocumentMoniker": "Program\\Tool.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Tool.cpp",
-              "RelativeToolTip": "Program\\Tool.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-13T05:20:47.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Tool.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Tool.h",
-              "RelativeDocumentMoniker": "Program\\Tool.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Tool.h",
-              "RelativeToolTip": "Program\\Tool.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-13T05:20:31.581Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WhetStone.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\WhetStone.h",
-              "RelativeDocumentMoniker": "Program\\WhetStone.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\WhetStone.h",
-              "RelativeToolTip": "Program\\WhetStone.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-13T05:18:58.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Consumable.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Consumable.cpp",
-              "RelativeDocumentMoniker": "Program\\Consumable.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Consumable.cpp",
-              "RelativeToolTip": "Program\\Consumable.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-13T04:46:26.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T05:38:24.459Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Potion.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Potion.h",
-              "RelativeDocumentMoniker": "Program\\Potion.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Potion.h",
-              "RelativeToolTip": "Program\\Potion.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Title": "Vector2D.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Vector2D.h",
+              "RelativeDocumentMoniker": "Program\\Vector2D.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Vector2D.h",
+              "RelativeToolTip": "Program\\Vector2D.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-13T04:46:09.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T05:37:21.955Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Consumable.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Consumable.h",
-              "RelativeDocumentMoniker": "Program\\Consumable.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Consumable.h",
-              "RelativeToolTip": "Program\\Consumable.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Pencil.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Pencil.cpp",
+              "RelativeDocumentMoniker": "Program\\Pencil.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Pencil.cpp",
+              "RelativeToolTip": "Program\\Pencil.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-16T05:06:25.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Brush.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Brush.cpp",
+              "RelativeDocumentMoniker": "Program\\Brush.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Brush.cpp",
+              "RelativeToolTip": "Program\\Brush.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-16T05:06:04.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Paint.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Paint.cpp",
+              "RelativeDocumentMoniker": "Program\\Paint.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Paint.cpp",
+              "RelativeToolTip": "Program\\Paint.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-16T05:02:42.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Brush.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Brush.h",
+              "RelativeDocumentMoniker": "Program\\Brush.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Brush.h",
+              "RelativeToolTip": "Program\\Brush.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-13T04:45:31.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T04:34:46.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pencil.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Pencil.h",
+              "RelativeDocumentMoniker": "Program\\Pencil.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Pencil.h",
+              "RelativeToolTip": "Program\\Pencil.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-16T04:33:56.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Paint.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Paint.h",
+              "RelativeDocumentMoniker": "Program\\Paint.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Paint.h",
+              "RelativeToolTip": "Program\\Paint.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-16T04:32:38.789Z"
             },
             {
               "$type": "Document",
@@ -143,9 +152,9 @@
               "RelativeDocumentMoniker": "Program\\Program.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Program.cpp",
               "RelativeToolTip": "Program\\Program.cpp",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAIwEkAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-09T04:15:54.527Z",
+              "WhenOpened": "2025-06-16T04:19:39.557Z",
               "EditorCaption": ""
             }
           ]
