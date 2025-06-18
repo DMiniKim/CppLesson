@@ -1,87 +1,128 @@
 #include <iostream>
-#include <Windows.h>
+#include <vector>
+#include <list>
+#include <string>
+#include <stack>
+#include <queue>
 
 using namespace std;
 
-template <typename T>
-bool Same(T x, T y)
-{
-	//bool isSame = x == y;
-	cout << "x 입력 값 : " << x << endl;
-	cout << "y 입력 값 : " << y << endl;
-	cout << "참일 시 1 ,거짓일 시 0 과연 => " << (x == y) << endl;
-	return x == y;
-}
-template <> 
-bool Same(const char* left, const char* right)
-{
-	return strlen(left) == strlen(right);
-}
-
-
-#define SIZE 5
-
-template<typename T>
-
-class Container
-{
-private:
-	T temp[SIZE];
-	int count = 0;
-public:
-	Container()
-	{
-		for (auto i = 0; i < SIZE; i++)
-		{
-			temp[i] = NULL;
-		}
-	}
-	T& operator[] (int data) // 해당 인덱스로 접근해서 출력용.
-	{
-		return this->temp[data];
-	}
-	void Add(T num) 
-	{
-		if (count < SIZE)
-		{
-			if (temp[count] == NULL)
-			{
-				temp[count++] = num;
-			}
-		}
-		else
-		{
-			cout << "꽊 차서 못 넣어요.." << endl;
-			return;
-		}
-	}
-	
-};
-
 int main()
 {
-#pragma region 템플릿 Template
-	// 데이터 형식에 의존하지 않고 , 하나의 값이 여러 다른 데이터
-	// 형식을 가진 기술에 중점을 두어 재사용성을 높일 수 있는 기능.
-	// Same(4, 4);
-	// Same(1.2, 1.1);
-	// Same('A', 'a');
-	// Same("Dong Min", "GeumSoo");
-	
-	
-	Container<int> temp;
-	temp.Add(54);
-	cout << temp[0] << endl;
+#pragma region 선형 컨테이너
+
+#pragma region Vector Container
+
+	// vector<int> vector;
+	// vector.reserve(10);
+	// vector.push_back(10);
+	// vector.push_back(20);
+	// cout << vector.capacity() << endl;
+	// vector.push_back(30);
+	// vector.push_back(40);
+	// vector.push_back(50);
+	// cout << vector.capacity() << endl;
+	// cout << "======================" << endl;
+	// vector.pop_back();
+	// vector.pop_back();
+	// for (auto i = 0; i < vector.size(); i++)
+	// {
+	// 	cout << vector[i] << "\n";
+	// }
+
+#pragma endregion
+
+#pragma region List Container
+	//	list<int> lst;
+//
+	//	lst.push_back(20);
+	//	lst.push_back(30);
+	//	lst.push_front(10);
+	//	for (auto it = lst.begin();it != lst.end(); ++it)
+	//	{
+	//		cout << *it << endl;
+	//	}
+	//	cout << "=================" << endl;
+	//	lst.pop_front();
+	//	for (auto element : lst)
+	//	{
+	//		cout << element << endl;
+	//	}
+	//	cout << "=================" << endl;
+//
+	//	lst.assign(3, 50);
+	//	for (auto element : lst)
+	//	{
+	//		cout << element << endl;
+	//	}
+	//	cout << "list size ? : " << lst.size() << endl;
+				
+#pragma endregion
+
+#pragma region string
+	//	string content;
+	//	cout << content.capacity() << endl;
+	//	content = "League of Legends";
+//
+	//	cout << content << endl;
+	//	cout << content.capacity() << endl;
+//
+	//	content = "Battle Field";
+//
+	//	cout << content << endl;
+	//	cout << content.capacity() << endl;
+//
+	//	cout << &content[0] << endl;
+
+#pragma endregion
 
 
 #pragma endregion
-	
-#pragma region 템플릿의 특수화
-	// 특정 자료형에 대해 다르게 처리하고 싶은 경우
-	// 특정한 자료형만 다른 형식으로 동작시키는 기능.
-	// cout << Same("DongMin", "GeumSoo") << endl;
+
+#pragma region 컨테이너 어댑터
+	 
+#pragma region Stack
+	//	stack<int> stack;
+	//	stack.push(10);
+	//	stack.push(20);
+	//	stack.push(30);
+	//	stack.push(40);
+	//	stack.push(50);
+//
+	//	//stack.empty() ==> 있으면 0 없으면 1
+	//	while (!stack.empty())	// stack에 데이터가 있는 상태면 0 이니 
+	//	{								// 1 이되면 조건 비해당. 1==0 <== 는 false 이므로 while 정지 			
+	//		cout << stack.top() << endl;
+	//		stack.pop();
+	//	}
 #pragma endregion
-	
+
+#pragma region Queue
+
+	//	queue<int> queue;
+//
+	//	queue.push(10);
+	//	queue.push(20);
+	//	queue.push(30);
+	//	queue.push(40);
+	//	queue.push(50);
+//
+	//	while (!queue.empty())
+	//	{
+	//		cout << queue.front() << endl;
+	//		queue.pop();
+	//	}
+
+
+
+
+#pragma endregion
+
+		
+
+#pragma endregion
+
+
 
 
 	return 0;
