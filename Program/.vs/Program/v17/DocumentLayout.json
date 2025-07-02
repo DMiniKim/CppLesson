@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\mini\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CppLesson\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|C:\\Users\\mini\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CppLesson\\Program\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|solutionrelative:Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Recource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|C:\\Users\\mini\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CppLesson\\Program\\Program\\Recource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|solutionrelative:Program\\Recource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Recource.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|C:\\Users\\mini\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CppLesson\\Program\\Program\\Recource.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|solutionrelative:Program\\Recource.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Packet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|C:\\Users\\mini\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CppLesson\\Program\\Program\\Packet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|solutionrelative:Program\\Packet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Packet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|C:\\Users\\mini\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CppLesson\\Program\\Program\\Packet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0E21153F-2ADF-4FB3-91EF-C6BBBC9D0AB4}|Program\\Program.vcxproj|solutionrelative:Program\\Packet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -36,67 +36,89 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Program.cpp",
+              "DocumentMoniker": "C:\\Users\\mini\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CppLesson\\Program\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program\\Program.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Program.cpp",
+              "ToolTip": "C:\\Users\\mini\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CppLesson\\Program\\Program\\Program.cpp",
               "RelativeToolTip": "Program\\Program.cpp",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAwwEkAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwGwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-16T04:19:39.557Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5d51d786-731c-4256-bf95-6a6dd495c7d7}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{5d51d786-731c-4256-bf95-6a6dd495c7d7}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Recource.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Recource.cpp",
+              "DocumentMoniker": "C:\\Users\\mini\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CppLesson\\Program\\Program\\Recource.cpp",
               "RelativeDocumentMoniker": "Program\\Recource.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Recource.cpp",
+              "ToolTip": "C:\\Users\\mini\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CppLesson\\Program\\Program\\Recource.cpp",
               "RelativeToolTip": "Program\\Recource.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-02T06:05:01.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T06:05:01.455Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Recource.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Recource.h",
+              "DocumentMoniker": "C:\\Users\\mini\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CppLesson\\Program\\Program\\Recource.h",
               "RelativeDocumentMoniker": "Program\\Recource.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Recource.h",
+              "ToolTip": "C:\\Users\\mini\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CppLesson\\Program\\Program\\Recource.h",
               "RelativeToolTip": "Program\\Recource.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-02T06:04:33.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T06:04:33.693Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Packet.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Packet.cpp",
+              "DocumentMoniker": "C:\\Users\\mini\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CppLesson\\Program\\Program\\Packet.cpp",
               "RelativeDocumentMoniker": "Program\\Packet.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Packet.cpp",
+              "ToolTip": "C:\\Users\\mini\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CppLesson\\Program\\Program\\Packet.cpp",
               "RelativeToolTip": "Program\\Packet.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-02T05:09:23.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T05:09:23.074Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Packet.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Packet.h",
+              "DocumentMoniker": "C:\\Users\\mini\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CppLesson\\Program\\Program\\Packet.h",
               "RelativeDocumentMoniker": "Program\\Packet.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppLesson\\Program\\Program\\Packet.h",
+              "ToolTip": "C:\\Users\\mini\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CppLesson\\Program\\Program\\Packet.h",
               "RelativeToolTip": "Program\\Packet.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-02T05:06:56.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T05:06:56.039Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1908,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
