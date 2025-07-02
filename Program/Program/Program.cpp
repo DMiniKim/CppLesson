@@ -1,129 +1,81 @@
 #include <iostream>
-#include <vector>
-#include <list>
-#include <string>
-#include <stack>
-#include <queue>
+#include "Packet.h"
+#include "Recource.h"
 
 using namespace std;
 
+int* Pointer()
+{
+	int* ptr1 = new int;
+	return ptr1;
+}
+
 int main()
 {
-#pragma region 선형 컨테이너
 
-#pragma region Vector Container
+#pragma region Smart Pointer
+	
+	//int* ptr2 = Pointer();
+	//*ptr2 = 100;
+	//cout << *ptr2 << endl;
+	
+	//int* ptr4 = nullptr;
+	//{
+	//	int* ptr3 = new int;
+	//	ptr4 = ptr3; 
+	//}
+	//*ptr4 = 100;
+	//delete ptr4;	
+	// // 이런 개념
 
-	// vector<int> vector;
-	// vector.reserve(10);
-	// vector.push_back(10);
-	// vector.push_back(20);
-	// cout << vector.capacity() << endl;
-	// vector.push_back(30);
-	// vector.push_back(40);
-	// vector.push_back(50);
-	// cout << vector.capacity() << endl;
-	// cout << "======================" << endl;
-	// vector.pop_back();
-	// vector.pop_back();
-	// for (auto i = 0; i < vector.size(); i++)
-	// {
-	// 	cout << vector[i] << "\n";
-	// }
+#pragma region Unique Pointer
+	// 특정한 객체를 하나의 스마트 포인터로만 가리킬 수
+	// 있도록 되어 있는 포인터.
+	// unique_ptr<자료형> 변수명 = make_unique<자료형> ();
+	
+	//unique_ptr<Packet> packet1 = make_unique<Packet>();	// 동적 할당
+	//packet1->Receive();
+	//unique_ptr<Packet> packet2 = std::move(packet1);
+	//
+	//packet1->Receive();
 
+	
 #pragma endregion
 
-#pragma region List Container
-	//	list<int> lst;
-//
-	//	lst.push_back(20);
-	//	lst.push_back(30);
-	//	lst.push_front(10);
-	//	for (auto it = lst.begin();it != lst.end(); ++it)
-	//	{
-	//		cout << *it << endl;
-	//	}
-	//	cout << "=================" << endl;
-	//	lst.pop_front();
-	//	for (auto element : lst)
-	//	{
-	//		cout << element << endl;
-	//	}
-	//	cout << "=================" << endl;
-//
-	//	lst.assign(3, 50);
-	//	for (auto element : lst)
-	//	{
-	//		cout << element << endl;
-	//	}
-	//	cout << "list size ? : " << lst.size() << endl;
-				
-#pragma endregion
+#pragma region Shared Pointer
+	// 하나의 자원 객체를 여러 포인터 객체가 가리킬 수 있으며,
+	// 모든 포인터 객체가 자원 객체를 필요하지 않을 때 자원 객체를
+	// 해제 하도록 설계되어 있는 포인터.
+	// shared_ptr<자료형> 변수명 = make_shared<자료형>();
 
-#pragma region string
-	//	string content;
-	//	cout << content.capacity() << endl;
-	//	content = "League of Legends";
-//
-	//	cout << content << endl;
-	//	cout << content.capacity() << endl;
-//
-	//	content = "Battle Field";
-//
-	//	cout << content << endl;
-	//	cout << content.capacity() << endl;
-//
-	//	cout << &content[0] << endl;
+	shared_ptr<Recource> oil = make_shared<Recource>();
+	shared_ptr<Recource> mineral = make_shared<Recource>();
 
-#pragma endregion
-
-
-#pragma endregion
-
-#pragma region 컨테이너 어댑터
-	 
-#pragma region Stack
-	//	stack<int> stack;
-	//	stack.push(10);
-	//	stack.push(20);
-	//	stack.push(30);
-	//	stack.push(40);
-	//	stack.push(50);
-//
-	//	//stack.empty() ==> 있으면 0 없으면 1
-	//	while (!stack.empty())	// stack에 데이터가 있는 상태면 0 이니 
-	//	{								// 1 이되면 조건 비해당. 1==0 <== 는 false 이므로 while 정지 			
-	//		cout << stack.top() << endl;
-	//		stack.pop();
-	//	}
-#pragma endregion
-
-#pragma region Queue
-
-	//	queue<int> queue;
-//
-	//	queue.push(10);
-	//	queue.push(20);
-	//	queue.push(30);
-	//	queue.push(40);
-	//	queue.push(50);
-//
-	//	while (!queue.empty())
-	//	{
-	//		cout << queue.front() << endl;
-	//		queue.pop();
-	//	}
+	oil->Share(mineral);
+	mineral->Share(oil);
+	cout << oil.use_count() << endl;
+	oil = nullptr;
+	cout << oil->p.use_count() << endl; // 이거 머임 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+	
 
 
 
 
 #pragma endregion
 
-		
 
+
+	
+	
+#pragma endregion
+
+
+#pragma region R value L value
+	// 숙제
 #pragma endregion
 
 
 
-
+	cout << "여기는 스택의 마무리 지점입니다" << endl;
 	return 0;
 }
