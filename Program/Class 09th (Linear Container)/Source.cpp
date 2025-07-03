@@ -4,6 +4,7 @@
 #include <string>
 #include <stack>
 #include <queue>
+#include <deque>
 
 using namespace std;
 
@@ -76,6 +77,21 @@ int main()
 
 #pragma endregion
 
+#pragma region Deque
+	deque<int> arr;
+	arr.push_front(5);
+	arr.push_front(4);
+	arr.push_back(6);
+	arr.push_front(3);
+	arr.push_front(2);
+	arr.push_back(7);
+
+	deque<int>::iterator iter;
+
+	
+
+
+#pragma endregion
 
 #pragma endregion
 

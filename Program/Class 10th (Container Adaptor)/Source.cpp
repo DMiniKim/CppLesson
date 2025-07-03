@@ -4,6 +4,7 @@
 #include <string>
 #include <stack>
 #include <queue>
+#include <concurrent_priority_queue.h>
 
 using namespace std;
 
@@ -47,6 +48,11 @@ int main()
 
 
 
+#pragma endregion
+
+#pragma region priority queue container
+	// 우선순위 큐
+	priority_queue<int> a;
 #pragma endregion
 
 
