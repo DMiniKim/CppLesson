@@ -51,8 +51,21 @@ int main()
 #pragma endregion
 
 #pragma region priority queue container
-	// 우선순위 큐
-	priority_queue<int> a;
+	//	// 우선순위 큐
+	//	priority_queue<int> a;
+	//	a.push(3213);
+	//	a.push(203);
+	//	a.push(1212);
+	//	a.push(22);
+	//	a.push(1);
+//
+	//	for (int i = 0; 0 == a.empty(); i++)
+	//	{
+	//		cout << a.top() << endl;
+	//		a.pop();
+	//		
+	//	}
+	
 #pragma endregion
 
 
